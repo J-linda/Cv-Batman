@@ -1,0 +1,47 @@
+body {
+    font-family: Calibri, Helvetica, sans-serif;
+}
+
+header {
+    background-color: #ddd;
+    line-height: 2;
+    text-align: center;
+}
+
+footer {
+    background-color: #1F497D;
+    color: #ddd;
+    font-size: 24px;
+    text-align: center;
+}
+
+main {
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 15px;
+}
+
+h1,
+h2 {
+    background-color: #BFBFBF;
+    letter-spacing: 0.5em;
+}
+
+h1 {
+    color: #1F497D;
+}
+
+h2 {
+    color: #632423;
+}
+
+.item-detail {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.img-link {
+    width: 30px;
+    height: 30px;
+}
